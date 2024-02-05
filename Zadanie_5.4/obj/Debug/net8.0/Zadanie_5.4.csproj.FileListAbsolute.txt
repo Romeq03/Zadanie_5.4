@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/bin/Debug/net8.0/Zadanie_5.4
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/bin/Debug/net8.0/Zadanie_5.4.deps.json
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/bin/Debug/net8.0/Zadanie_5.4.runtimeconfig.json
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/bin/Debug/net8.0/Zadanie_5.4.dll
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/bin/Debug/net8.0/Zadanie_5.4.pdb
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.AssemblyInfo.cs
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.dll
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/refint/Zadanie_5.4.dll
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.pdb
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/Zadanie_5.4.genruntimeconfig.cache
+/Users/bartekromek/wsb/Zadanie_5.4/Zadanie_5.4/obj/Debug/net8.0/ref/Zadanie_5.4.dll
